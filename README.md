@@ -41,7 +41,7 @@ proyectopersonal/
 ├── ClienteHandler.java    # Hilo que maneja cada cliente
 ├── SalaChat.java          # Gestor de la sala de chat (broadcast)
 └── LT.java                # Utilidad para leer entradas del usuario
-
+```
 
 ## ⚙️ Cómo Ejecutarlo
 
